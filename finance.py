@@ -6,6 +6,9 @@ import quandl
 from scipy.optimize import minimize
 import plotly.graph_objs as go
 
+# The code is mainly taken from the Coursera class https://www.coursera.org/specializations/investment-management-python-machine-learning
+# I added and customized the code to my belongings
+
 DAX = {"Adidas": "ADS.DE", "Airbus": "AIR.DE", "Allianz": "ALV.DE", "BASF": "BAS.DE", "Bayer": "BAYN.DE",
        "Beiersdorf": "BEI.DE", "BMW": "BMW.DE", "Brenntag": "BNR.DE", "Continental": "CON.DE", "Covestro": "1COV.DE",
        "Daimler": "DAI.DE", "Delivery Hero": "DHER.DE", "Deutsche Bank": "DBK.DE", "Deutsche Börse": "DB1.DE",
