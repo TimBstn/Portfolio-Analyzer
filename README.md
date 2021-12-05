@@ -3,6 +3,7 @@
 ## About the app
 
 A Dash application that helps construction your portfolio. 
+Access the app here: http://timbstn.pythonanywhere.com/
 
 ### Step 1
 
