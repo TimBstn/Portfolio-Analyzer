@@ -3,9 +3,9 @@
 ## About the app
 
 A Dash application that helps construction your portfolio. 
-Access the app here: http://timbstn.pythonanywhere.com/
+[Access the app here.](http://timbstn.pythonanywhere.com/)
 
-<img src="images/ERC_MA.PNG?raw=true"/>
+<img src="screenshots/ERC_MA.PNG?raw=true"/>
 
 ### Step 1
 
