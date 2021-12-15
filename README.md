@@ -5,6 +5,8 @@
 A Dash application that helps construction your portfolio. 
 Access the app here: http://timbstn.pythonanywhere.com/
 
+<img src="images/ERC_MA.PNG?raw=true"/>
+
 ### Step 1
 
 Choose your parameters on the left side. First, choose the rebalancing period, meaning how often the portfolio should be rebalanced. 
